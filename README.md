@@ -6,7 +6,9 @@ Accroding to [Smithsonian.com](https://www.smithsonianmag.com/science-nature/the
 
 The 21st century in America is flooded with sarcasm, and according to one study based on telephone conversations, 23% of the time the phrase "yeah, right" was used, it was used in a sarcastic manner. Another phrase "big deal," phrases like that said in a snarky way has lost its literal meaning. 
 
-We wanted to see if we can train a machine to detect sarcasm by bringing it to the 21st century.
+We wanted to see if we can train a machine to detect sarcasm by bringing it to the 21st century and posed the question... 
+
+Can we detect sarcasm using machine learning? 
 
 
 ## Summary
