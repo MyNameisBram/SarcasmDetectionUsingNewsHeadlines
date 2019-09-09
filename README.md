@@ -2,7 +2,7 @@
 
 ## Abstract
 
-Accroding to [Smithsonian.com](https://www.smithsonianmag.com/science-nature/the-science-of-sarcasm-yeah-right-25038/)Scientist are finding that the ability to detect sarcasm is extremely useful. Researchers from linguists to pychologists to neurologists have been studying humans ability to perceive sarcasm and gaining new insights into how the mind works. They believe sarcasm detection is an essential skill if one is to function in a modern society. 
+Accroding to [Smithsonian.com](https://www.smithsonianmag.com/science-nature/the-science-of-sarcasm-yeah-right-25038/) Scientist are finding that the ability to detect sarcasm is extremely useful. Researchers from linguists to pychologists to neurologists have been studying humans ability to perceive sarcasm and gaining new insights into how the mind works. They believe sarcasm detection is an essential skill if one is to function in a modern society. 
 
 The 21st century in America is flooded with sarcasm, and according to one study based on telephone conversations, 23% of the time the phrase "yeah, right" was used, it was used in a sarcastic manner. Another phrase "big deal," phrases like that said in a snarky way has lost its literal meaning. 
 
